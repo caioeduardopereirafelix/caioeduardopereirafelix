@@ -41,8 +41,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🛠️ Tech Stack
 
-
-
 ### Backend
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -64,10 +62,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioeduardopereirafelix&show_icons=true&theme=transparent)
 
 ---
 
