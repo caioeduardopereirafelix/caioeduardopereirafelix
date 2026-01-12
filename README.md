@@ -1,6 +1,6 @@
 # Hi 👋, I'm Caio Felix
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior Software Engineer | Back-end Developer**  
 🇧🇷 Brazil
 
 I build **scalable products** and **high-performance web systems**.  
