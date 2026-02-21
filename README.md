@@ -60,8 +60,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🚀 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioeduardopereirafelix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioeduardopereirafelix&layout=compact&langs_count=8&theme=tokyonight)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caioeduardopereirafelix&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=caioeduardopereirafelix&theme=dark)
