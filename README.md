@@ -56,3 +56,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+
+
+## 🚀 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioeduardopereirafelix&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioeduardopereirafelix&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=caioeduardopereirafelix&theme=dark)
