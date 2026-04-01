@@ -58,4 +58,4 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 
 
-(https://github-readme-stats.vercel.app/api?username=caioeduardopereirafelix)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioeduardopereirafelix)](https://github.com/anuraghazra/github-readme-stats)
