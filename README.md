@@ -58,8 +58,4 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 
 
-## 🚀 Estatísticas GitHub
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caioeduardopereirafelix&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=caioeduardopereirafelix&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=caioeduardopereirafelix)](https://github.com/anuraghazra/github-readme-stats)
