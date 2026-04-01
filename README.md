@@ -60,6 +60,5 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caioeduardopereirafelix&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caioeduardopereirafelix&show_icons=true&theme=trasnparent)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caioeduardopereirafelix&layout=compact&theme=tokyonight)
