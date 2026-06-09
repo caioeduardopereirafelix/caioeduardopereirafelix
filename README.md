@@ -1,5 +1,6 @@
 ### Hello! I'm Caio Felix! 👋
 
+---
 
 ### 🛠️ Skills and Tools
 
@@ -17,6 +18,8 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=terraform" width="46" height="46" alt="Terraform" /></a>
 </p>
+
+---
 
 ### 📫 Reach me
 
