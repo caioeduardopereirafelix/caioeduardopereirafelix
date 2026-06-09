@@ -1,7 +1,7 @@
-# Hello! I'm Caio Felix! 👋
+### Hello! I'm Caio Felix! 👋
 
 
-## 🛠️ Skills and Tools
+### 🛠️ Skills and Tools
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=java" width="46" height="46" alt="Java" /></a>
@@ -18,7 +18,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=terraform" width="46" height="46" alt="Terraform" /></a>
 </p>
 
-## 📫 Reach me
+### 📫 Reach me
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/eocaio])
 - 📧 caiotech02@gmail.com
